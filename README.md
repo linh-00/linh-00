@@ -42,9 +42,13 @@ Atualmente participo de projetos como:
 📫 Contato
 📨 Email: alinnelauren@hotmail.com
 
-💼 [Visite meu LinkedIn](https://www.linkedin.com/in/alinnelaurenreis/)
+
+---
+
+<p align="center">
+  Feito com ☕, café e muito <strong>&#x2764;</strong> por Alinne Lauren
+</p>
 
 
 
-<p align="center">Feito com ☕, café e muito <strong>&#x2764;</strong> por Alinne Lauren</p>
 
