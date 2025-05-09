@@ -42,7 +42,8 @@ Atualmente participo de projetos como:
 
 
 📫 Contato
-💼 LinkedIn
 📨 Email: alinnelauren@hotmail.com
+
+💼 [Visite meu LinkedIn](https://www.linkedin.com/in/alinnelaurenreis/)
 
 <p align="center"> Feito com 💻, café ☕ e muito <strong>C#</strong> por Alinne Lauren </p>
