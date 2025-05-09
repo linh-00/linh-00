@@ -1,4 +1,6 @@
-<h1 align="center">🚀 Olá! Sou a Alinne Lauren, desenvolvedora apaixonada por transformar ideias em código.</h1>
+<h1 align="center">🚀 Olá! Sou a Alinne Lauren.</h1>
+
+<h4align="center">🚀  desenvolvedora apaixonada por transformar ideias em código.</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
