@@ -44,6 +44,6 @@ Atualmente participo de projetos como:
 
 💼 [Visite meu LinkedIn](https://www.linkedin.com/in/alinnelaurenreis/)
 
----
 
-<p align="center"> Feito com 💻, café ☕ e muito <strong>C#</strong> por Alinne Lauren </p>
+
+<p align="center">Feito com 💻, café ☕ e muito <strong><em>C#</em></strong> por Alinne Lauren</p> ´´´
