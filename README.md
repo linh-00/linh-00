@@ -14,7 +14,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou desenvolvedora de software com foco em backend (mas também gosto de brincar com frontend!). Tenho experiência com C#, React.js e SQL Server. Amo transformar ideias em código limpo, funcional e reutilizável. ✨
+Sou desenvolvedora de software com foco em backend (mas também gosto de brincar com frontend!). Tenho experiência com C#, React.js, TypeScript e SQL Server. Amo transformar ideias em código limpo, funcional e reutilizável. ✨
 
 Atualmente participo de projetos como:
 - 🔐 [**Inc.Hecate.Auth.Api**](https://github.com/linh-00/Inc.Hecate.Auth.Api): sistema de autenticação e autorização com JWT e Onion Architecture  
@@ -27,13 +27,15 @@ Atualmente participo de projetos como:
 
 ```text
 💬 Linguagens:        C# · SQL · JavaScript
-⚙️ Frameworks:        .NET · ASP.NET Core · Entity Framework · Node.js · Vue.js
+⚙️ Frameworks:        Entity Framework · Tailwind CSS
 🗄️ Banco de dados:    SQL Server · PostgreSQL · MongoDB
 🧪 Testes:            xUnit · MSTest
-🌐 Frontend:          HTML · CSS · React.js (iniciante)
+🌐 Frontend:          React.js + TypeScript
 🔧 Ferramentas:       Git · GitHub · VS Code · Visual Studio · Postman · Figma
 
-🚀 Projetos em destaque:
+🚀 Design Patterns:   Repository · Factory
+🏗️ Arquitetura:       Clean Architecture · MVC
+🚀 Projetos em destaque
 
 🔐 Inc.Hecate.Auth.Api: API de autenticação e autorização baseada em JWT com Onion Architecture
 
@@ -41,7 +43,6 @@ Atualmente participo de projetos como:
 
 📫 Contato
 📨 Email: alinnelauren@hotmail.com
+💼 Visite meu LinkedIn
 
-💼 [Visite meu LinkedIn](https://www.linkedin.com/in/alinnelaurenreis/)
-
-Feito com ☕, café e muito C#; por Alinne Lauren 
+Feito com ☕, café e muito C#;</strong> por Alinne Lauren
