@@ -1,13 +1,11 @@
 <h1 align="center">🚀 Olá! Sou a Alinne Lauren.</h1>
 
-<h4 align="center"> 👩‍💻 desenvolvedora apaixonada por transformar ideias em código.</h4>
-
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  💻 Desenvolvedora apaixonada por tecnologia <br>
+  💻 Desenvolvedora apaixonada por transformar ideias em código.<br>
   🌍 Belo Horizonte - MG | Ela/dela <br>
   📚 Estudando sempre | Curiosa por natureza
 </p>
