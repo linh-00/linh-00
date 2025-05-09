@@ -46,4 +46,4 @@ Atualmente participo de projetos como:
 
 
 
-<p align="center">Feito com 💻, café ☕ e muito <strong><em>C#</em></strong> por Alinne Lauren</p> ´´´
+<p align="center">Feito com 💻, café ☕ e muito <strong><em>C#</em></strong> por Alinne Lauren</p> ```
