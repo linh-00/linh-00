@@ -40,10 +40,11 @@ Atualmente participo de projetos como:
 
 
 📫 Contato
-📨 Email: alinnelauren@hotmail.com
+📨 Email: alinnelauren@hotmail.com ´´´
 
 
 ---
+### 
 
 <p align="center">
   Feito com ☕, café e muito <strong>&#x2764;</strong> por Alinne Lauren
