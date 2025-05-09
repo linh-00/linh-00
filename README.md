@@ -33,23 +33,15 @@ Atualmente participo de projetos como:
 🌐 Frontend:          HTML · CSS · React.js (iniciante)
 🔧 Ferramentas:       Git · GitHub · VS Code · Visual Studio · Postman · Figma
 
-🚀 Projetos em destaque
+🚀 Projetos em destaque:
+
 🔐 Inc.Hecate.Auth.Api: API de autenticação e autorização baseada em JWT com Onion Architecture
 
 🧾 Inc.Account: gerenciamento de contas com C# e SQL Server
 
-
 📫 Contato
-📨 Email: alinnelauren@hotmail.com ´´´
+📨 Email: alinnelauren@hotmail.com
 
+💼 [Visite meu LinkedIn](https://www.linkedin.com/in/alinnelaurenreis/)
 
----
-### 
-
-<p align="center">
-  Feito com ☕, café e muito <strong>&#x2764;</strong> por Alinne Lauren
-</p>
-
-
-
-
+<p align="center"> Feito com ☕, café e muito <strong>&#x2764;</strong> por Alinne Lauren </p> ```
