@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Alinne Lauren</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
